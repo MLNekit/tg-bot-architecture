@@ -1,4 +1,4 @@
-# Telegram Bot
+# Telegram Bot Architecture
 
 This project contains a Telegram bot with the following files:
 
